@@ -1,3 +1,10 @@
+# About the project
+
+The scope: the application has 9 steps till the end. I used  Samantic-UI-React as a 3rd party library for styling in this project. the application is developed with typescript and 4 hours of time dedicated to build this project. I could have used Mobx for state management for this project as it is easy for working with observables and typescript compare to Redux but didn't had time to make that happen maybe in the future I will consider that.
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
