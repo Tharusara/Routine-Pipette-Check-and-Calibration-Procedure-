@@ -87,7 +87,7 @@ class MainForm extends Component {
         switch(step) {
         case 1:
             return <>
-                    <h3>Start the process</h3>
+                    <h3>Start the Routine Pipette Check and Calibration Process from here</h3>
                     <Button color='blue' onClick={this.nextStep}>Start</Button>                    
                    </>
         case 2:
