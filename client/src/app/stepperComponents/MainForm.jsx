@@ -144,6 +144,7 @@ class MainForm extends Component {
                     />
         case 9:
             values.mean = (parseInt(round1)+parseInt(round2)+parseInt(round3)+parseInt(round4)+parseInt(round5))/5;
+            values.dispenseList.splice(0,5);
             values.dispenseList.push(parseInt(round1));
             values.dispenseList.push(parseInt(round2));
             values.dispenseList.push(parseInt(round3));
